@@ -1,11 +1,36 @@
 # GHOST-Solver
-CRITICAL LICENSING NOTICE (AGPLv3)
-​THIS SOFTWARE IS LICENSED UNDER THE GNU AFFERO GENERAL PUBLIC LICENSE, Version 3 (AGPLv3).
-​This license model ensures that GHOST-Solver remains free and open source, while protecting it from proprietary use.
-​Free Use: Permitted for Academic Research, Personal Projects, and Non-Profit Use.
-​STRICT RESTRICTION (Strong Copyleft): Any entity (commercial or otherwise) that uses GHOST-Solver to provide a network service (SaaS, Cloud Optimization, etc.) is legally required to publish the complete source code of their entire service under the AGPLv3 terms.
-​Warning: Using GHOST-Solver in a closed-source commercial network service constitutes a violation of the AGPLv3 and will be treated as copyright infringement.
-​📧 CONTACT & COPYRIGHT
-​Developer and Project Lead: Tolgahan Özdemir 
-​Copyright: © [2025] Tolgahan Özdemir. All rights reserved.
-Licensed under the strong AGPLv3, signaling commercial restrictions
+
+## ⚠️ CRITICAL LICENSING NOTICE (CC BY-NC-SA 4.0)
+
+**GHOST-Solver is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.**
+
+This license ensures that **GHOST-Solver remains free and open for academic, personal, and non-profit use**, while strictly prohibiting any commercial exploitation of the software.
+
+### ✅ Free Use Allowed For:
+- Academic research
+- Personal projects
+- Educational purposes
+
+
+### ❌ Strict Prohibition of Commercial Use:
+You are **not allowed** to use GHOST-Solver or any derivative of it for **commercial purposes**, including but not limited to:
+- Selling the software or its derivatives
+- Using it in commercial SaaS platforms
+- Integrating it into proprietary or revenue-generating services
+
+**Any commercial usage without the author's written permission constitutes a violation of copyright law.**
+
+### 🔁 ShareAlike Requirement:
+If you modify, adapt, or build upon GHOST-Solver, you **must** distribute your contributions under the **same license (CC BY-NC-SA 4.0)**, and provide proper credit to the original author.
+
+---
+
+## 📧 CONTACT & COPYRIGHT
+
+**Developer & Project Lead:** Tolgahan Özdemir  
+ 
+**Copyright:** © 2025 Tolgahan Özdemir. All rights reserved.
+
+Licensed under the terms of the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
+
+🔗 Full License Text: [https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
